@@ -1,4 +1,3 @@
-
 services:
   vprodb:
     build:
